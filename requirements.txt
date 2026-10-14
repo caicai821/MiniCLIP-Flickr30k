@@ -1,0 +1,8 @@
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.40.0,<5.0
+pandas
+pillow
+numpy
+tqdm
+gradio>=4.0.0

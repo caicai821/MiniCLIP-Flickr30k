@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+checkpoints/
+samples/
+flickr30k-images/
+__MACOSX/
+miniclip-eval-fix/
+*.zip
+*.tar.gz
+train*.log
+demo.log
